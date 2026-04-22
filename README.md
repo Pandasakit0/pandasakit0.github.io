@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Halo,%20Saya%20Agil!&fontSize=70" width="100%" />
 
-  <h1>🚀 Selamat Datang di Repository Saya</h1>
+  <h1>🚀 Selamat Datang di Website Saya</h1>
 
   <p>
     Seorang antusias teknologi yang tertarik pada <b>Otomotif, Analisis Bisnis, dan Pengembangan Sistem</b>.
